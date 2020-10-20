@@ -38,16 +38,16 @@ const ContactForm = () => {
                 "Messages": [
                     {
                         "From": {
-                            "Email": "admin@aldebarant.com",
+                            "Email": "info@sstegnologyc.com",
                             "Name": "SSTEGNOLOGYC"
                         },
                         "To": [
                             {
-                                "Email": "admin@aldebarant.com",
-                                "Name": "aldebarant"
+                                "Email": "info@sstegnologyc.com",
+                                "Name": "SSTEGNOLOGYC"
                             }
                         ],
-                        "Subject": `SSTEGNOLOGYC ${data.subject}`,
+                        "Subject": `${data.subject}`,
                         "TextPart": 'Concato web',
                         "HTMLPart": `<h3>Contacto</h3>, <br/> 
                     <p><strong>Email:<strong>${data.email}<p>

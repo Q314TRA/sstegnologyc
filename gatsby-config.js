@@ -3,7 +3,7 @@
 module.exports = {
   pathPrefix: `/`,
   siteMetadata: {
-    title: "SSTEGNOLOGYC",
+    title: "Inicio",
     titleTemplate: `sstegnologyc`,
     description: `Desarrollo de software a la medida.`,
     author: `@sstegnologyc`,
