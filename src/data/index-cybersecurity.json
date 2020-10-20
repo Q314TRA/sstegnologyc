@@ -1,0 +1,53 @@
+[
+    {
+        "id": "cybersecurity-hero-content",
+        "title": "Descentralizar las responsabilidades tecnologías",
+        "subtitle": "de tu empresa",
+        "desc": "Desarrollo de software a la medida de tus necesidades.",
+        "path": "#contacto",
+        "bg_image": "./images/hero/hero_2.jpg",
+        "imageOne": "./images/bg/mitech-slider-cybersecurity-global-image.png",
+        "imageTwo": "./images/hero/slider-cybersecurity-slide-01-image-01.png"
+    },
+    {
+        "id": "cybersecurity-about-content",
+        "title": "Tranquilidad, respaldo, servicio y soporte.",
+        "subtitle": "Nuestra empresa",
+        "heading": "<mark>10</mark> años desarrollando aplicaciones",
+        "subheading": "Transforma tu empresa!",
+        "desc": "Buscamos generar tranquilidad en las empresas, a través de la centralización de todos sus procesos tecnológicos; por ello nuestra empresa se basa en una filosofía de gobierno compartido, en donde la gestión, mantenimiento y administración la ejecutan expertos dedicados al desarrollo y evolución de sus soluciones; entre tanto a su empresa buscamos llegen los datos necesarios y relevantes, para tomar decisiones e impactar positivamente a sus clientes.",
+        "path": "#contacto"
+    },
+    {
+        "id": "cybersecurity-service-content",
+        "bottom_text": "Transforma la manera en que gestionas la tecnología en tu empresa,",
+        "bottom_link_text": "contactanos!.",
+        "path": "#contacto"
+    },
+    {
+        "id": "cybersecurity-feature-content",
+        "title": "Invierte tu energía en hacer crecer <br/> <span>a tu empresa.</span> ",
+        "subtitle": "Nuestros servicios "
+    },
+    {
+        "id": "cybersecurity-case-content",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES"
+    },
+    {
+        "id": "cybersecurity-pricing-content",
+        "title": "1 monthly fee for <span>all IT services.</span>",
+        "subtitle": "PRICING AND PLAN"
+    },
+    {
+        "id": "cybersecurity-blog-content",
+        "title": "Interesting articles <br/> <span>updated daily</span>",
+        "subtitle": "BLOGS & NEWS"
+    },
+    {
+        "id": "cybersecurity-client-content",
+        "title": "Queremos optimizar <span>tu tiempo</span>",
+        "subtitle": "transformado cómo gestionas tus productos tecnológicos.",
+        "download_link": "#contacto"
+    }
+]

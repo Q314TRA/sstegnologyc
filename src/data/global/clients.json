@@ -1,0 +1,37 @@
+[
+    {
+        "id": "adroll-partner",
+        "image": "../images/technologies/react_230.png",
+        "path": "/"
+    },
+    {
+        "id": "mozila-partner",
+        "image": "../images/technologies/angular_230.png",
+        "path": "/"
+    },
+    {
+        "id": "bullfit-partner",
+        "image": "../images/technologies/docket_230.png",
+        "path": "/"
+    },
+    {
+        "id": "aqua-partner",
+        "image": "../images/technologies/jenkins_230.png",
+        "path": "/"
+    },
+    {
+        "id": "eventbrite-partner",
+        "image": "../images/technologies/mongodb_230.png",
+        "path": "/"
+    },
+    {
+        "id": "pencil-partner",
+        "image": "../images/technologies/nest_230.png",
+        "path": "/"
+    },
+    {
+        "id": "sixbase-partner",
+        "image": "../images/technologies/next_230.png",
+        "path": "/"
+    }
+]

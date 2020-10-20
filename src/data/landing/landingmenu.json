@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Servicios",
+        "link": "#servicios",
+        "isSubme,nu": false
+    },
+    {
+        "text": "Nosotros",
+        "link": "#nosotros",
+        "isSubmenu": false
+    },
+    {
+        "text": "Por qué nosotros",
+        "link": "#porquenosotros",
+        "isSubmenu": false
+    },
+    {
+        "text": "Contáctanos",
+        "link": "#contacto",
+        "isSubmenu": false
+    }
+]
